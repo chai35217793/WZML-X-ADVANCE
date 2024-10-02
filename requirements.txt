@@ -1,3 +1,4 @@
+xon-bit
 aiohttp[speedups]
 aiofiles
 aioshutil
